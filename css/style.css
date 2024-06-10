@@ -17,6 +17,60 @@ footer p{
     text-align: center;
 }
 
+.footerRdino{
+    footer{
+        background-color: black;
+        padding-top: 20px;
+        padding-bottom: 35px;
+        font-family: "Ubuntu", sans-serif;;
+    }
+    
+    footer p{
+        color: whitesmoke;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+    }
+}
+
+.footerDlaid{
+    footer{
+        background-color: black;
+        padding-top: 20px;
+        padding-bottom: 35px;
+        font-family: "Ubuntu", sans-serif;;
+    }
+    
+    footer p{
+        color: whitesmoke;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+    }
+}
+
+.footerCbum{
+    footer{
+        background-color: black;
+        padding-top: 20px;
+        padding-bottom: 35px;
+        font-family: "Ubuntu", sans-serif;;
+    }
+    
+    footer p{
+        color: whitesmoke;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+    }
+}
+
+
+
+
+
+
+
+
+
+
 .mainSectionindex h1{
 text-align: center;
 padding-top: 170px;
