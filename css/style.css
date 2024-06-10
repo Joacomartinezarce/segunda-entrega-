@@ -63,20 +63,12 @@ footer p{
 }
 
 
-
-
-
-
-
-
-
-
 .mainSectionindex h1{
-text-align: center;
-padding-top: 170px;
-color: whitesmoke;
-font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-text-align: center;
+    text-align: center;
+    padding-top: 170px;
+    color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
 }
  
   
@@ -87,8 +79,8 @@ text-align: center;
 }
 .mainSectionindex{
     background-image: url(../assets/fondo\ sections.jpg);
-background-size: 100%;
-background-repeat: no-repeat;
+    background-size: 100%;
+    background-repeat: no-repeat;
 
 }
 .mainSectionindex{
