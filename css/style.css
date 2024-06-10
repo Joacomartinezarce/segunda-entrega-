@@ -18,49 +18,48 @@ footer p{
 }
 
 .footerRdino{
-    footer{
+    
         background-color: black;
         padding-top: 20px;
         padding-bottom: 35px;
         font-family: "Ubuntu", sans-serif;;
     }
     
-    footer p{
+    .footerRdino p{
         color: whitesmoke;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         text-align: center;
     }
-}
+
 
 .footerDlaid{
-    footer{
+   
         background-color: black;
         padding-top: 20px;
         padding-bottom: 35px;
         font-family: "Ubuntu", sans-serif;;
     }
     
-    footer p{
+    .footerDlaid p{
         color: whitesmoke;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         text-align: center;
     }
-}
 
 .footerCbum{
-    footer{
-        background-color: black;
+   
+        background-color: rgb(0, 0, 0);
         padding-top: 20px;
         padding-bottom: 35px;
         font-family: "Ubuntu", sans-serif;;
     }
     
-    footer p{
+    .footerCbum p{
         color: whitesmoke;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         text-align: center;
     }
-}
+
 
 
 .mainSectionindex h1{
@@ -85,4 +84,15 @@ footer p{
 }
 .mainSectionindex{
     height:591px;
+}
+
+
+.main{
+    background-image:url(../assets/fondo\ sections.jpg);
+}
+
+.mainramonDino{
+    display: flex;
+    gap: 16px; 
+
 }
