@@ -1,3 +1,3 @@
 ## Segunda Entrega
 
-Segunda entrega para CoderHouse
+Buenas, Esta es la segunda entrega para CoderHouse 
